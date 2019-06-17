@@ -34,3 +34,5 @@ def weather(postalcode):
     rdata = jdata['main']['temp']
     return str(rdata)
 
+# weather addition / testing github
+
